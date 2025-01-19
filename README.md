@@ -1,12 +1,10 @@
 About
 =======
-TAudioConverter is an audio converter that uses many powerful backends to convert audio and video files to different audio formats. It can run multiple encoder instances (up to 16) in order to shorten encoding time. Both portable and installer versions for 32/64bit Windows systems are available.
+TAudioCBest is a fork of the TAudioConverter project, with significant improvements over its sibling (abandoned project), and it will be kept alive and up to date with the codecs.
 
 Downloads
 =========
-If you want to get stable version please visit [http://www.fosshub.com/TAudioConverter.html).
-
-For beta versions please visit [bitbucket page](https://bitbucket.org/ozok/taudioconverter-audio-converter/downloads).
+Currently, we do not have a release (we are still updating codecs).
 
 Source code
 ===========
@@ -14,5 +12,5 @@ TAudioConverter (or TAC) is written in Delphi. AlphaControls, JVCL-JCL and NewAc
 
 Help
 ====
-You can contact me from ozok26[at]gmail[dot]com. You can also get help from [doom9](http://forum.doom9.org/showthread.php?t=165577) and [hydrogenaudio](http://www.hydrogenaudio.org/forums/index.php?showtopic=98327).
+You can contact me or make a issue 
 
